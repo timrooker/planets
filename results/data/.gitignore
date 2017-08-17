@@ -1,0 +1,2 @@
+*.dat  #ignore all .dat files
+!*.txt #do not ignore .txt files
