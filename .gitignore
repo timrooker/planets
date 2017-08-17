@@ -1,1 +1,3 @@
-not sure what's supposed to go in here.
+*.dat    #ignore everything with extension .dat
+!a.dat   #do not ignore this
+results/ #ignore everything in results
