@@ -1,3 +1,2 @@
-*.dat    #ignore everything with extension .dat
-!a.dat   #do not ignore this
-results/ #ignore everything in results
+results/data/*.dat    #ignore everything with extension .dat
+                      #no need to not explicitly ignore .txt files
